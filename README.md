@@ -1,5 +1,5 @@
 5й клас
-# [🌦️ Погода на завтра](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
+[🌦️ Погода на завтра](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
 # *РОЗКЛАД УРОКІВ*
 
 | Час <br>`№`   <sup>`Перерва`</sup> | Пн | Вт | Ср | Чт | Пт |
