@@ -1,6 +1,6 @@
 # 5й клас Польського ліцею (2025)  
 
-## 🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
+## 🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
 
 ## 📅 *Розклад уроків*
 
