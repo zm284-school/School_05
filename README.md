@@ -2,7 +2,7 @@
 
 ## 🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
 
-## 📊 [*Щоденник*](https://nz.ua/schedule/diary?user_id=12623742)
+## 📊 [*Щоденник*](https://nz.ua/schedule/diary?user_id=12623742)  
 
 ## 📅 *Розклад уроків*
 
