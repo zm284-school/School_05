@@ -38,8 +38,8 @@
 ## 📚 *Підручники*
 
 ***01. Англійська мова***  
-[📘 Wider World Student's book](./Books/01_English/270_1_Wider_World_Starter_Student's_Book_2018.pdf)  
-[📘 Wider World Workbook book](./Books/01_English/270_3_Wider_World_Starter_Workbook_2018.pdf)  
+[📘 Wider World Student's book](https://drive.google.com/drive/folders/1z93wGOyP8PjFNWBvmYJ7om4dmGNOfqX6)  
+[📘 Wider World Workbook book](https://drive.google.com/drive/folders/1z93wGOyP8PjFNWBvmYJ7om4dmGNOfqX6)  
 
 ***07. Пізнаємо природу***    
-[📘 Пізнаємо природу 5](./Books/07_DiscoverNature/Discover_Nature_5.pdf) ([🔗 альт.](https://www.geneza.ua/sites/default/files/ebooks/%D0%9F%D1%96%D0%B7%D0%BD%D0%B0%D1%94%D0%BC%D0%BE%20%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%83_5%D0%BA%D0%BB_%D0%93%D0%B5%D0%BD%D0%B5%D0%B7%D0%B0.pdf)) 
+[📘 Пізнаємо природу 5](https://drive.google.com/drive/folders/1CReMVTQ7HDbrk5pc5eC_aA_gqdU7nhEn)
