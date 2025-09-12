@@ -44,4 +44,4 @@
 [📘 Wider World Workbook book](https://drive.google.com/file/d/1qM08yAF_mCnAI-t1aZ8J6g2OpVq0Kz3o/view?usp=drive_link)  
 
 ***07. Пізнаємо природу***    
-[📘 Пізнаємо природу 5](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link)
+[📘 Пізнаємо природу 5кл](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link)
