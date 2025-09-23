@@ -19,20 +19,20 @@
 
 
 
-| № | Предмет *<sup>`Аудиторія`</sup>* |    Пн    |    Вт    |    Ср    |    Чт    |    Пт    | ∑ |
-| :---: | --- | :---: | :---: | :---: | :---: | :---: | ---: |
-|  1 | Англійська мова *<sup>`219`</sup>*         | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 |
-|  2 | Зарубіжна література *<sup>`219`</sup>*       |   | 🟩 |   |   |   | 1 |
-|  3 | Інформатика *<sup>`203`</sup>*        |   |   |   | 🟩🟩 |   | 2 |
-|  4 | Історія *<sup>`219`</sup>*            |   | 🟩 |   | 🟩 |   | 2 |
-|  5 | Математика *<sup>`219`</sup>*         | 🟩🟩 |   |   | 🟩🟩 |   | 4 |
-|  6 | Основи здоров'я *<sup>`110`</sup>*      |   |   | 🟩 |   |   | 1 |
-|  7 | Пізнаємо природу *<sup>`110`</sup>*   |   |   |   |   | 🟩🟩 | 2 |
-|  8 | Польська мова *<sup>`219`</sup>*         |   | 🟩 |   | 🟩 |   | 2 |
-|  9 | Технології *<sup>`219`</sup>*         |   |   |   |   | 🟩 | 1 |
-| 10 | Українська література *<sup>`219`</sup>*        | 🟩 |   | 🟩 |   |   | 2 |
-| 11 | Українська мова *<sup>`219`</sup>*          | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 |
-| 12 | Фізична культура *<sup>`Сп. зала`</sup>* |   | 🟩 | 🟩 |   | 🟩 | 3 |
+| № | Предмет *<sup>`Аудиторія`</sup>* |    Пн    |    Вт    |    Ср    |    Чт    |    Пт    | ∑ | Підручники |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | ---: | --- |
+|  1 | Англійська мова *<sup>`219`</sup>*         | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 | [📕 Wider World Workbook book](https://drive.google.com/file/d/1qM08yAF_mCnAI-t1aZ8J6g2OpVq0Kz3o/view?usp=drive_link) </br> [📘 Wider World Student's book](https://drive.google.com/file/d/14qGvT96tayHBzcNOs5w396eP-29QJLtc/view?usp=drive_link)   |
+|  2 | Зарубіжна література *<sup>`219`</sup>*       |   | 🟩 |   |   |   | 1 | |
+|  3 | Інформатика *<sup>`203`</sup>*        |   |   |   | 🟩🟩 |   | 2 | |
+|  4 | Історія *<sup>`219`</sup>*            |   | 🟩 |   | 🟩 |   | 2 | |
+|  5 | Математика *<sup>`219`</sup>*         | 🟩🟩 |   |   | 🟩🟩 |   | 4 | |
+|  6 | Основи здоров'я *<sup>`110`</sup>*      |   |   | 🟩 |   |   | 1 | |
+|  7 | Пізнаємо природу *<sup>`110`</sup>*   |   |   |   |   | 🟩🟩 | 2 | [📕 Пізнаємо природу 5кл](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link) |
+|  8 | Польська мова *<sup>`219`</sup>*         |   | 🟩 |   | 🟩 |   | 2 | |
+|  9 | Технології *<sup>`219`</sup>*         |   |   |   |   | 🟩 | 1 | |
+| 10 | Українська література *<sup>`219`</sup>*        | 🟩 |   | 🟩 |   |   | 2 | |
+| 11 | Українська мова *<sup>`219`</sup>*          | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 | |
+| 12 | Фізична культура *<sup>`Сп. зала`</sup>* |   | 🟩 | 🟩 |   | 🟩 | 3 | |
 | ∑ |  | 5 | 6 | 5 | 6 | 6 | `28` |
 
 ## 📚 *Підручники*
@@ -40,8 +40,8 @@
 ***01. Англійська мова***  
 
 
+[📕 Wider World Workbook book](https://drive.google.com/file/d/1qM08yAF_mCnAI-t1aZ8J6g2OpVq0Kz3o/view?usp=drive_link)  
 [📘 Wider World Student's book](https://drive.google.com/file/d/14qGvT96tayHBzcNOs5w396eP-29QJLtc/view?usp=drive_link)  
-[📘 Wider World Workbook book](https://drive.google.com/file/d/1qM08yAF_mCnAI-t1aZ8J6g2OpVq0Kz3o/view?usp=drive_link)  
 
 ***07. Пізнаємо природу***    
-[📘 Пізнаємо природу 5кл](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link)
+[📕 Пізнаємо природу 5кл](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link)
