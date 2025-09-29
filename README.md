@@ -18,7 +18,7 @@
 |  8 | Польська мова *<sup>`219`</sup>*         |   | 🟩 |   | 🟩 |   | 2 | [📕 Польська мова](https://drive.google.com/file/d/1MZIF2XkZJGcQ6d1t_bzbrN3NNuF_220W/view?usp=drive_link) </br> [📘 Польська мова. Аудіо](https://drive.google.com/drive/folders/1Sb02Bl5wBBz_9nPffzSmYIfc56HcIdcQ?usp=drive_link) |
 |  9 | Технології *<sup>`219`</sup>*         |   |   |   |   | 🟩 | 1 | |
 | 10 | Українська література *<sup>`219`</sup>*        | 🟩 |   | 🟩 |   |   | 2 | [📕 Українська література](https://drive.google.com/file/d/1xp2F4gRflUdQrILhtRKMSOYFmOsIfXyQ/view?usp=drive_link) |
-| 11 | Українська мова *<sup>`219`</sup>*          | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 | [📕 Українська література](https://drive.google.com/file/d/17JNTkU9KhCuGsK7z4fUFWqPAz71G9IXT/view?usp=drive_link) |
+| 11 | Українська мова *<sup>`219`</sup>*          | 🟩 | 🟩 | 🟩 |   | 🟩 | 4 | [📕 Українська мова](https://drive.google.com/file/d/17JNTkU9KhCuGsK7z4fUFWqPAz71G9IXT/view?usp=drive_link) |
 | 12 | Фізична культура *<sup>`Сп. зала`</sup>* |   | 🟩 | 🟩 |   | 🟩 | 3 | |
 | ∑ |  | 5 | 6 | 5 | 6 | 6 | `28` |
 
