@@ -1,5 +1,5 @@
-﻿# 5й клас Польського ліцею (2025)  
-## [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)                🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
+﻿🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
+# [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742) 5й клас Польського ліцею (2025)
 
 ## 📋 Білети на екзамени 5.1
 
