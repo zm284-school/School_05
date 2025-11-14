@@ -4,11 +4,7 @@
 
 ## 📋 Білети на екзамени 5.1
 
-* [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link)
-* [Українська мова](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)
-* [Англійська мова (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link)
-* [Англійська мова (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link)
-* [Польська мова](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link)  
+[Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link) | [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) | [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) |  [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link)  
 
 ## 🎓 *Предмети*
 
