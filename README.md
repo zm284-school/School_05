@@ -6,7 +6,7 @@
 | Оригінальні білети | Білети з відповідями |
 | --- | --- |
 | [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) |
-| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | |
+| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) |
 | [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link) | |
 | [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | |
 
