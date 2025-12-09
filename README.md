@@ -1,4 +1,4 @@
-﻿🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)
+﻿🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow) | [💡 є чи не ма](https://voe.com.ua/disconnection/detailed)
 # 5й клас Польського ліцею (2025)                             [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)
 
 ## 📋 Білети на екзамени 5.1
@@ -9,6 +9,12 @@
 | [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) |
 |  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| |
 | [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | |
+
+## 🔗 Інструменти та ресурси
+
+### Українська мова
+- [Словник української мови](https://lcorp.ulif.org.ua/dictua/)  
+- [Правопис 2019](https://2019.pravopys.net/)  
 
 ## 🎓 *Предмети*
 
