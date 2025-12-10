@@ -1,16 +1,14 @@
 ﻿🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow) | [💡 є чи не ма](https://voe.com.ua/disconnection/detailed)
 # 5й клас Польського ліцею (2025)                             [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)
 
-[📌 Консультація з англійської мови](https://meet.google.com/mwa-jywm-icq)
-
-## 📋 Білети на екзамени 5.1
+## 📋 Екзамени 5.1
  
-| Оригінальні білети | Білети з відповідями |
-| --- | --- |
-| [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) |
-| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) |
-|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| |
-| [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | |
+| Оригінальні білети | Білети з відповідями | Посилання на онлайн консультацію |
+| --- | --- | --- |
+| [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) | |
+| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) | [📌 Онлайн консультація (2025.12.10 12:00)](https://meet.google.com/mwa-jywm-icq) |
+|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| | |
+| [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | | |
 
 ## 🔗 Інструменти та ресурси
 
