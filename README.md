@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) | |
 | [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) | [📌 Онлайн консультація (2025.12.10 12:00)](https://meet.google.com/mwa-jywm-icq) |
-|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| | |
+|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| [☑️ Українська](https://docs.google.com/document/d/172zTJtaLfhKT6RCD5idow0i7LpSTqxhV/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) | |
 | [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | | |
 
 ## 🔗 Інструменти та ресурси
