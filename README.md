@@ -1,20 +1,48 @@
 ﻿🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow) | [💡 є чи не ма](https://voe.com.ua/disconnection/detailed)
 # 5й клас Польського ліцею (2025)                             [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)
 
-## 📋 Екзамени 5.1
- 
-| Оригінальні білети | Білети з відповідями | Посилання на онлайн консультацію |
-| --- | --- | --- |
-| [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) | |
-| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) | [📌 Онлайн консультація (2025.12.10 12:00)](https://meet.google.com/mwa-jywm-icq) |
-|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| [☑️ Українська v0.36.2](https://drive.google.com/file/d/1-70jHZEkbRRo7ABYCdpC25WoO3O_DdPY/view?usp=sharing) | |
-| [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | | |
+## Онлайн уроки
 
-## 🔗 Інструменти та ресурси
+| ПІБ | Предмет та покликання в Google meet |
+| --- | --- |
+| Загородня Галина Володимирівна | [історія, право](https://meet.google.com/xyp-qdws-edv) | |
+| Шевчик Людмила Михайлівна | [фізична культура](https://meet.google.com/qha-scfc-pit) |
+| Мацера Ірина Василівна | [мистецтво, технології](https://meet.google.com/cor-ijcs-kgy) |
+| Табачук Ірина Іванівна | [польська мова](https://meet.google.com/gvu-hgbq-bwa) |
+| Чижик Олена Володимирівна | [Пізнаємо природу ЗБД,фізика](https://meet.google.com/bcc-pyri-zch) |
+| Погуляйло Олена Олександрівна | [польська мова](https://meet.google.com/qap-kwyr-uam) |
+| Плахотнюк Анастасія | [Англійська мова](https://meet.google.com/qsm-ujbb-wxi) |
+| Главацька Наталія Олександрівна | [Українська мова, Українська література, Зарубіжна література, ЗДБ](https://meet.google.com/rtk-oimr-kbw) |
+| Копняк Костянтин Євгенович | [Математика, Інформатика](https://meet.google.com/byu-zuak-mqt) |
 
-### Українська мова
-- [Словник української мови](https://lcorp.ulif.org.ua/dictua/)  
-- [Правопис 2019](https://2019.pravopys.net/)  
+❗️❗️❗️Розклад дзвінків:  
+
+| Урок | час |
+|:-------:|:----:|
+|    1    | 08:40 … 09:10 |
+|    2    | 09:25 … 09:55 |
+|    3    | 10:10 … 10:40 |
+|    4    | 10:55 … 11:25 |
+|    5    | 11:40 … 12:10 |
+|    6    | 12:25 … 12:55 |
+|    7    | 13:10 … 13:40 |
+
+Урок 30 хв  
+Перерва - 15 хв  
+Під час тривоги уроки не проводяться.
+
+## 📅 *Розклад уроків*
+
+| Час <br>`№`   <sub>`Перерва`</sub> | Пн | Вт | Ср | Чт | Пт |
+|:---:|---|---|---|---|---|
+| **08<sup>40</sup>** … 09<sup>25</sup> <br>`1`     <sub>`10 хв`</sub> | Укр. літ-ра <br>*<sup>`219`</sup>* | Укр. мова <br>*<sup>`219`</sup>* | Укр. літ-ра <br>*<sup>`219`</sup>* | Математика <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* |
+| **09<sup>35</sup>** … 10<sup>20</sup> <br>`2`     <sub>`15 хв`</sub> | Укр. мова <br>*<sup>`219`</sup>* | Поль. мова <br>*<sup>`219`</sup>* | Осн. здоров'я <br>*<sup>`110`</sup>* | Математика <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* |
+| **10<sup>35</sup>** … 11<sup>20</sup> <br>`3`     <sub>`10 хв`</sub> | Математика <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* | Укр. мова <br>*<sup>`219`</sup>* | Поль. мова <br>*<sup>`219`</sup>* | Укр. мова <br>*<sup>`219`</sup>* |
+| **11<sup>30</sup>** … 12<sup>15</sup> <br>`4`     <sub>`10 хв`</sub> | Математика <br>*<sup>`219`</sup>* | Заруб. лі-ра <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* | Історія <br>*<sup>`219`</sup>* | Пізнаємо природу <br>*<sup>`110`</sup>* |
+| **12<sup>25</sup>** … 13<sup>10</sup> <br>`5`     <sub>`25 хв`</sub> | Англ. мова <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* | Інформатика <br>*<sup>`203`</sup>* | Пізнаємо природу <br>*<sup>`110`</sup>* |
+| **13<sup>35</sup>** … 14<sup>20</sup> <br>`6`     <sub>`10 хв`</sub> | — | Історія <br>*<sup>`202`</sup>* | — | Інформатика <br>*<sup>`203`</sup>* | Технології <br>*<sup>`219`</sup>* |
+| **14<sup>30</sup>** … 15<sup>15</sup> <br>`7`     <sub>`10 хв`</sub> | — | — | — | — | — |
+| **15<sup>25</sup>** … 16<sup>10</sup> <br>`8`     <sub>`—— хв`</sub> | — | — | — | — | — |
 
 ## 🎓 *Предмети*
 
@@ -34,18 +62,19 @@
 | 12 | Фізична культура *<sup>`Сп. зала`</sup>* |   | 🟩 | 🟩 |   | 🟩 | 3 | |
 | ∑ |  | 5 | 6 | 5 | 6 | 6 | `28` |
 
-## 📅 *Розклад уроків*
+## 📋 Екзамени 5.1
+ 
+| Оригінальні білети | Білети з відповідями | Посилання на онлайн консультацію |
+| --- | --- | --- |
+| [Польська](https://drive.google.com/file/d/1iD-IURfDlBc-Es6fhGePb4OxZjqt_ZBd/view?usp=drive_link) | [☑️ Польська](https://drive.google.com/file/d/1L3HMhXgiScYRGg5EAizbavD_dDN5wPSH/view?usp=drive_link) | |
+| [Англійська (письмова)](https://drive.google.com/file/d/19IPFsQIQxS6dK3qSJaHnnKOhDqag464q/view?usp=drive_link) </br> [Англійська (розмовна)](https://drive.google.com/file/d/16jza_-xDka0MuFCC0qmE6nhGI4sL0qp5/view?usp=drive_link) | [☑️ Англійська (письмова та розмовна)](https://drive.google.com/file/d/1PEYNTcqjPh2uj3Ohc_mSgjTsfC-_oeEt/view?usp=drive_link) | [📌 Онлайн консультація (2025.12.10 12:00)](https://meet.google.com/mwa-jywm-icq) |
+|  [Українська v2](https://docs.google.com/document/d/1aGbbB8DN7RsQ785RcWWgt9oyni2T9Z-O/edit?usp=drive_link&ouid=105207416481981255920&rtpof=true&sd=true) </br> [Українська](https://drive.google.com/file/d/13yfRYekT-OVRVStLYb0kbEEHHf42X-DV/view?usp=drive_link)| [☑️ Українська v0.36.2](https://drive.google.com/file/d/1-70jHZEkbRRo7ABYCdpC25WoO3O_DdPY/view?usp=sharing) | |
+| [Математика](https://drive.google.com/file/d/1RAMt5uAq8RyZDRaCJr6GbExkYiOd3aL5/view?usp=drive_link) | | |
 
-| Час <br>`№`   <sub>`Перерва`</sub> | Пн | Вт | Ср | Чт | Пт |
-|:---:|---|---|---|---|---|
-| **08<sup>40</sup>** … 09<sup>25</sup> <br>`1`     <sub>`10 хв`</sub> | Укр. літ-ра <br>*<sup>`219`</sup>* | Укр. мова <br>*<sup>`219`</sup>* | Укр. літ-ра <br>*<sup>`219`</sup>* | Математика <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* |
-| **09<sup>35</sup>** … 10<sup>20</sup> <br>`2`     <sub>`15 хв`</sub> | Укр. мова <br>*<sup>`219`</sup>* | Поль. мова <br>*<sup>`219`</sup>* | Осн. здоров'я <br>*<sup>`110`</sup>* | Математика <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* |
-| **10<sup>35</sup>** … 11<sup>20</sup> <br>`3`     <sub>`10 хв`</sub> | Математика <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* | Укр. мова <br>*<sup>`219`</sup>* | Поль. мова <br>*<sup>`219`</sup>* | Укр. мова <br>*<sup>`219`</sup>* |
-| **11<sup>30</sup>** … 12<sup>15</sup> <br>`4`     <sub>`10 хв`</sub> | Математика <br>*<sup>`219`</sup>* | Заруб. лі-ра <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* | Історія <br>*<sup>`219`</sup>* | Пізнаємо природу <br>*<sup>`110`</sup>* |
-| **12<sup>25</sup>** … 13<sup>10</sup> <br>`5`     <sub>`25 хв`</sub> | Англ. мова <br>*<sup>`219`</sup>* | Англ. мова <br>*<sup>`219`</sup>* | Фіз. культура <br>*<sup>`Сп. зала`</sup>* | Інформатика <br>*<sup>`203`</sup>* | Пізнаємо природу <br>*<sup>`110`</sup>* |
-| **13<sup>35</sup>** … 14<sup>20</sup> <br>`6`     <sub>`10 хв`</sub> | — | Історія <br>*<sup>`202`</sup>* | — | Інформатика <br>*<sup>`203`</sup>* | Технології <br>*<sup>`219`</sup>* |
-| **14<sup>30</sup>** … 15<sup>15</sup> <br>`7`     <sub>`10 хв`</sub> | — | — | — | — | — |
-| **15<sup>25</sup>** … 16<sup>10</sup> <br>`8`     <sub>`—— хв`</sub> | — | — | — | — | — |
+## 🔗 Інструменти та ресурси
 
+### Українська мова
+- [Словник української мови](https://lcorp.ulif.org.ua/dictua/)  
+- [Правопис 2019](https://2019.pravopys.net/)  
 
 
