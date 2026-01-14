@@ -77,6 +77,7 @@
 - [Словник української мови](https://lcorp.ulif.org.ua/dictua/)  
 - [Правопис 2019](https://2019.pravopys.net/)  
 
+[тест
 
 <!-- Meteofor Weather Widget: Start -->
 <script src="https://meteofor.com.ua/pq/widget/69679e07038a982d8d1db19c/" defer></script>
@@ -109,3 +110,5 @@
     </div>
 </div>
 <!-- Meteofor Weather Widget: End -->
+
+тест]
