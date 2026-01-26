@@ -1,5 +1,5 @@
-🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow) | [💡 є чи не ма](https://voe.com.ua/disconnection/detailed)                                                                           [` ↩️ Попередній симестр `](./2025_01.md)
-# Польський ліцей • 5й клас, 2й симестр (2025_2)         [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)
+🌦️ *Погода на* [*сьогодні*](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/) *та* [*завтра*](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow) | [💡 є чи не ма](https://voe.com.ua/disconnection/detailed)                                                                        [` ↩️ Попередній симестр `](./2025_01.md)
+# Польський ліцей • 5й клас, 2й симестр (2025_2)     [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)
 
 
 ## 📅 *Розклад уроків*
