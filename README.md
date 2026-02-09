@@ -16,3 +16,22 @@
 |7| **14<sup>30</sup>** … 15<sup>15</sup> <br><sub>`10 хв`</sub> | **14<sup>05</sup>** … 14<sup>45</sup> <br><sub>`10 хв`</sub> | — | — | — | — | — |
 |8| **15<sup>25</sup>** … 16<sup>10</sup> <br><sub>`—— хв`</sub> | **14<sup>55</sup>** … 15<sup>35</sup> <br><sub>`10 хв`</sub> | — | — | — | — | — |
 |9|  | **15<sup>45</sup>** … 16<sup>25</sup> <br><sub>`—— хв`</sub> | — | — | — | — | — |
+
+## 🎓 *Предмети*
+
+| № | Предмет *<sup>`Аудиторія`</sup>* |    Пн    |    Вт    |    Ср    |    Чт    |    Пт    | ∑ | Підручники |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: | --- |
+|  1 | Англійська мова *<sup>`219`</sup>*      | 🟩🟩 | 🟩  | 🟩  |    |    | 4   | [📕 Wider World Workbook book](https://drive.google.com/file/d/1qM08yAF_mCnAI-t1aZ8J6g2OpVq0Kz3o/view?usp=drive_link) </br> [📘 Wider World Student's book](https://drive.google.com/file/d/14qGvT96tayHBzcNOs5w396eP-29QJLtc/view?usp=drive_link)   |
+|  2 | Зарубіжна література *<sup>`219`</sup>* | 🟩  |    |    | 🟩  |    | 2   | [📕 Зарубіжна література](https://drive.google.com/file/d/10Z1uScD5mh7G3ImlVDSb9CdjCRvfbPeZ/view?usp=drive_link) |
+|  3 | Інформатика *<sup>`203`</sup>*          |    |    |    | 🟩🟩 |    | 2   | [📕 Інформатика](https://drive.google.com/file/d/1ovFNKGutJbGj_hXEZ_2lS-B4hoO3o-ZJ/view?usp=drive_link) |
+|  4 | Історія *<sup>`219`</sup>*              |    | 🟩  | 🟩  |    |    | 2   | [📕 Історія України](https://drive.google.com/file/d/1GsYIlK1rbyTCFaqAKVaSxTHi9IffULma/view?usp=drive_link) </br> [📘 Історія України. Атлас + контурні карти](https://drive.google.com/file/d/1zkH0vSpO63UyPErd7LB0XSfQD7DURW4h/view?usp=drive_link) |
+|  5 | Математика *<sup>`219`</sup>*           | 🟩🟩 |    |    | 🟩🟩 |    | 4   | [📕 Математика](https://drive.google.com/file/d/1X7suyrFLuAsaA1XXKowBUitFt1rMJal6/view?usp=drive_link) |
+|  6 | Мистецтво *<sup>`219`</sup>*            |    |    |    |    | 🟩  | 1   |  |
+|  7 | Основи здоров'я *<sup>`110`</sup>*      | 🟩  |    |    |    |    | 1   | [📕 Здоров’я, безпека та добробут](https://drive.google.com/file/d/1xhfxHTBjjjZmUt5byUL9A1mYcnf9OMhP/view?usp=drive_link) |
+|  8 | Пізнаємо природу *<sup>`110`</sup>*     |    |    |    |    | 🟩🟩 | 2   | [📕 Пізнаємо природу](https://drive.google.com/file/d/11ZiUeODbtlyl25JWCbeNvxANckNQtiys/view?usp=drive_link) </br> 📘 Пізнаємо природу. Зошит-практикум |
+|  9 | Польська мова *<sup>`219`</sup>*        |    | 🟩  |    | 🟩  |    | 2   | [📕 Польська мова](https://drive.google.com/file/d/1MZIF2XkZJGcQ6d1t_bzbrN3NNuF_220W/view?usp=drive_link) </br> [📘 Польська мова. Аудіо](https://drive.google.com/drive/folders/1Sb02Bl5wBBz_9nPffzSmYIfc56HcIdcQ?usp=drive_link) |
+| 10 | Технології *<sup>`219`</sup>*           |    |    | 🟩  |    |    | 1   | |
+| 11 | Українська література *<sup>`219`</sup>*|    | 🟩  |    |    | 🟩  | 2   | [📕 Українська література](https://drive.google.com/file/d/1xp2F4gRflUdQrILhtRKMSOYFmOsIfXyQ/view?usp=drive_link) |
+| 12 | Українська мова *<sup>`219`</sup>*      |    | 🟩  | 🟩🟩 |    | 🟩  | 4   | [📕 Українська мова](https://drive.google.com/file/d/17JNTkU9KhCuGsK7z4fUFWqPAz71G9IXT/view?usp=drive_link) |
+| 13 | Фізична культура *<sup>`Сп. зала`</sup>*|    | 🟩  | 🟩  |    | 🟩  | 3   | |
+| ∑ |                                          | 6  | 6  | 6  | 6  | 6  | `30` |
