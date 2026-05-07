@@ -1,7 +1,8 @@
 # Польський ліцей `2025_2` 5й клас, 2й симестр        [` 📊 Щоденник `](https://nz.ua/schedule/diary?user_id=12623742)  
 [` ↩️ `](./2025_01.md)   [` 🌦️ сьогодні `](https://meteofor.com.ua/weather-vinnytsia-4962/hourly/)   [` 🌦️ завтра `](https://meteofor.com.ua/weather-vinnytsia-4962/tomorrow)   [` 💡 є чи не ма `](https://voe.com.ua/disconnection/detailed)
 
-# [📌 Завдання ](./Tasks/_main.md)
+## Екзамени
+[Математика](./Exams/Math/Math.md)
 
 ## 📅 *Розклад уроків*
 
